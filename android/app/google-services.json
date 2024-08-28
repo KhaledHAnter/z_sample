@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "294453503838",
+    "project_id": "z-sample-6035d",
+    "storage_bucket": "z-sample-6035d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294453503838:android:2bd75ca3b6f235565b11cf",
+        "android_client_info": {
+          "package_name": "com.example.z_sample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkHCD5sOU7RDsO2BBD3CXTWrQIxUru--Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

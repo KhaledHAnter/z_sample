@@ -11,11 +11,13 @@ class HomeView extends StatelessWidget {
         title: const Text("Home View"),
         centerTitle: true,
       ),
-      body: const Text(
-        "Home View",
-        style: TextStyle(
-          fontSize: 44,
-          fontWeight: FontWeight.bold,
+      body: const Center(
+        child: Text(
+          "Home View",
+          style: TextStyle(
+            fontSize: 44,
+            fontWeight: FontWeight.bold,
+          ),
         ),
       ),
     );
