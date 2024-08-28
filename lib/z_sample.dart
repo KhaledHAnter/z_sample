@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:z_sample/forgot_password_view.dart';
 import 'package:z_sample/home_view.dart';
 
 class ZSample extends StatelessWidget {
@@ -13,7 +14,7 @@ class ZSample extends StatelessWidget {
       theme: ThemeData(
         scaffoldBackgroundColor: Colors.white,
       ),
-      home: const HomeView(),
+      home: const VerificationScreen(),
     );
   }
 }
