@@ -15,7 +15,7 @@ class _VerificationScreenState extends State<VerificationScreen> {
       backgroundColor: Colors.white,
       body: LogoWithTitle(
         title: 'Verification',
-        subText: "SMS Verification code has been sent",
+        subText: "SMS Verification code has been sent ",
         children: [
           const Text("+1 18577 11111"),
           SizedBox(height: MediaQuery.of(context).size.height * 0.04),
