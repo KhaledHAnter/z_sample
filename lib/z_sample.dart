@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:z_sample/home_view.dart';
 
 class ZSample extends StatelessWidget {
   const ZSample({super.key});
@@ -12,6 +13,7 @@ class ZSample extends StatelessWidget {
       theme: ThemeData(
         scaffoldBackgroundColor: Colors.white,
       ),
+      home: const HomeView(),
     );
   }
 }
